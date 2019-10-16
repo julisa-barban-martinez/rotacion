@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">p5yuli</string>
+    <string name="txtBienvenido">Bienvenido</string>
+    <string name="ima">ya</string>
+    <string name="Saludo">Saludar</string>
+    <string name="nombre">Tu Nombre</string>
+    <string name="TXTnombre">Cual es tu nombre? Pinpollo :b</string>
+    <string name="txtnamesta2">Cual es tu nombre? Pinpollo :)</string>
+</resources>
